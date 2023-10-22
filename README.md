@@ -1,4 +1,4 @@
-# COVID-19 Dataset by _Our World in Data_ 
+# My COVID-19 project from the Covid-19 Dataset by _Our World in Data_ 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ourworldindata.org/coronavirus)
 [![Data](https://img.shields.io/badge/go_to-data-purple)](public/data/)
 [![documentation](https://img.shields.io/badge/go_to-dev_docs-0055ff)](https://docs.owid.io/projects/covid)
@@ -17,9 +17,7 @@ The project contains two independent directories:
   contributing to the project or better understanding our internal technical processes.
 
 ### Documentation
-If you are interested in the final dataset file, refer to [this document](public/data/README.md). If you want to
-learn more about our processes, refer to our [technical documentation](https://docs.owid.io/projects/covid).
-
+there is a file called scripts where i documented how i created the dashboard if youre interested in learning what went into its creation
 ### Contribute
-Thanks for considering contributing to this project! A good place to start is our [contribution
-guideline](https://docs.owid.io/projects/covid/en/latest/contribute.html).
+Thanks for taking the time to go through the project and i hope you find value in it
+
